@@ -1,0 +1,6 @@
+com\springdemo\elastic\springelasticsearch\dao\controller\UserController.class
+com\springdemo\elastic\springelasticsearch\SpringElasticsearchApplication.class
+com\springdemo\elastic\springelasticsearch\dao\service\UserService.class
+com\springdemo\elastic\springelasticsearch\dao\entity\User.class
+com\springdemo\elastic\springelasticsearch\dao\repository\UserRepository.class
+com\springdemo\elastic\springelasticsearch\dao\controller\UserControllerService.class
